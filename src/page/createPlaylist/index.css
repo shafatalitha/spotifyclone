@@ -1,0 +1,21 @@
+.home {
+  display: grid;
+  justify-content: center;
+}
+.create-playlist {
+  display: grid;
+  justify-content: center;
+  color: rgb(255 255 255);
+}
+.search-bar {
+  display: grid;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.songs {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(2, 1fr);
+  padding-bottom: 50px;
+}
